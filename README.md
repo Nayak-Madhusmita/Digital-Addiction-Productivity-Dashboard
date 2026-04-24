@@ -1,5 +1,5 @@
 # Digital-Addiction-Productivity-Dashboard
-\📊 Smartphone Usage & Addiction Analysis Dashboard
+📊 Smartphone Usage & Addiction Analysis Dashboard
 📌 Project Overview
 
 This project presents an interactive Tableau dashboard that analyzes smartphone usage patterns and their impact on key lifestyle and performance factors such as productivity, sleep, stress levels, focus, and burnout risk.
